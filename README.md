@@ -3,10 +3,10 @@
 Welcome to the ROC Online Art Repository!
 
 v0.1:
-* Light and Heavy Standard Objects added
-* Hindering and Blocking Terrain markers added
-* Maps added: Galador Promeande, Genosha, Underground Cavern, Wizkids Premium (all)
-* First batch of Marvel Characters added
+* Light and heavy standard objects added.
+* Hindering and blocking terrain markers added.
+* Maps added: Galador Promeande, Genosha, Underground Cavern, All Wizkids Premium.
+* First batch of Marvel characters added.
 
 ---
 

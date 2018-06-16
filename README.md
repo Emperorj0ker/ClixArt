@@ -1,19 +1,32 @@
 # ROC Online Art
 
-**_Welcome to the Unoffocial [ROC Online](https://roc.ionsuite.com/) Art Repository!_**
+### Welcome to the Unoffocial [ROC Online](https://roc.ionsuite.com/) Art Repository!
 
-THe images in this repository are for use with the [Roll20 online vitrual tabletop](https://roll20.net/).
+_The images in this repository are for use with the [Roll20 online vitrual tabletop](https://roll20.net/)._
+
+The goal of this project is to streamline the process for both new and veteran ROC players of getting their teams ready to go on the virtual tabletop.
+
+The following items will be provided to players here:
+* Library of Modern Age character tokens, made to be more easily identifiable, even when zoomed out.
+* Complete library of cropped ROC Modern Age map images, ready to drop onto the tabletop.
+* Tokens for standard objets, special obects and terrain markers
+
+---
 
 v0.2 additions:
-* Overdrive and Charged Up
-* Added Shredder Elite and Clone Shredder 
+* Maps: Amok Time, Gorn Fight, Wakanda, Avengers Unity Rooftop, Arthur's Castle, Harley's Apartment
+* Overdrive, Charged Up, Shredder Elite and Clone Shredder
 
 v0.1 additons:
 * Light and heavy standard objects
 * Hindering and blocking terrain markers
-* Maps: Galador Promeande, Genosha, Underground Cavern, All Wizkids Premium
+* Maps: Galador Promeande, Genosha, Underground Cavern, All 6 Wizkids Premium
 * Arena backdrop (in /Maps)
 * First batch of Marvel characters
+
+TODO:
+* ROC Maps
+* Many more Modern Age characters!
 
 ---
 

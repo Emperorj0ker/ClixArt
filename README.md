@@ -1,15 +1,13 @@
 # ROC Online Art
 
-### Welcome to the Unoffocial [ROC Online](https://roc.ionsuite.com/) Art Repository!
+#### Welcome to the Unoffocial [ROC Online](https://roc.ionsuite.com/) Art Repository!
 
-_The images in this repository are for use with the [Roll20 online vitrual tabletop](https://roll20.net/)._
-
-The goal of this project is to streamline the process for both new and veteran ROC players of getting their teams ready to go on the virtual tabletop.
+The goal of this project is to streamline the process for both new and veteran ROC players of getting their teams ready to go on the [Roll20 online vitrual tabletop](https://roll20.net/).
 
 The following items will be provided to players here:
 * Library of Modern Age character tokens, made to be more easily identifiable, even when zoomed out.
-* Complete library of cropped ROC Modern Age map images, ready to drop onto the tabletop.
-* Tokens for standard objets, special obects and terrain markers
+* Complete library of cropped ROC Modern Age map images as well as a backdrop for the arena, ready to drop onto the tabletop.
+* Tokens for standard objets, special obects, terrain markers and special terrain
 
 ---
 

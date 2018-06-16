@@ -1,1 +1,1 @@
-All images are © MARVEL.
+All images © MARVEL.

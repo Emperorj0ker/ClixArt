@@ -1,6 +1,6 @@
 # ROC Online Art
 
-Welcome to the ROC Online Art Repository!
+**_Welcome to the ROC Online Art Repository!_**
 
 v0.1:
 * Light and heavy standard objects added.

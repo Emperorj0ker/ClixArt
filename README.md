@@ -1,13 +1,19 @@
 # ROC Online Art
 
-**_Welcome to the ROC Online Art Repository!_**
+**_Welcome to the Unoffocial [ROC Online](https://roc.ionsuite.com/) Art Repository!_**
 
-v0.1:
-* Light and heavy standard objects added.
-* Hindering and blocking terrain markers added.
-* Maps added: Galador Promeande, Genosha, Underground Cavern, All Wizkids Premium.
-* Arena backdrop added to /Maps.
-* First batch of Marvel characters added.
+THe images in this repository are for use with the [Roll20 online vitrual tabletop](https://roll20.net/).
+
+v0.2 additions:
+* Overdrive and Charged Up
+* Added Shredder Elite and Clone Shredder 
+
+v0.1 additons:
+* Light and heavy standard objects
+* Hindering and blocking terrain markers
+* Maps: Galador Promeande, Genosha, Underground Cavern, All Wizkids Premium
+* Arena backdrop (in /Maps)
+* First batch of Marvel characters
 
 ---
 

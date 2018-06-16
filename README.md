@@ -6,6 +6,7 @@ v0.1:
 * Light and heavy standard objects added.
 * Hindering and blocking terrain markers added.
 * Maps added: Galador Promeande, Genosha, Underground Cavern, All Wizkids Premium.
+* Arena backdrop added to /Maps.
 * First batch of Marvel characters added.
 
 ---

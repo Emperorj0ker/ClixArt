@@ -6,7 +6,7 @@ The goal of this project is to streamline the process for players getting their 
 
 The following items will be provided here:
 * Library of Modern Age character tokens, made to be more easily identifiable, even when zoomed out.
-* Complete library of cropped ROC Modern Age map images as well as a backdrop for the arena, ready to drop onto the tabletop.
+* Complete library of cropped ROC Modern Age map images and a backdrop for the arena, ready to drop on the table.
 * Tokens for objects and terrain, both standard and special.
 
 ---

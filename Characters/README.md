@@ -1,5 +1,7 @@
 # Characters
 
-All images are © MARVEL.
+All images in /Marvel are © MARVEL.
 
-HeroClix is © NECA/WizKids LLC, the name and logo are trademarks of NECA/WizKids LLC.
+All images in /DC are © DC COMICS.
+
+All images in /TMNT are © Viacom International.

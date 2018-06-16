@@ -1,7 +1,7 @@
 # Characters
 
-All images in /Marvel are © MARVEL.
+All images in /Marvel © MARVEL.
 
-All images in /DC are © DC COMICS.
+All images in /DC © DC COMICS.
 
-All images in /TMNT are © Viacom International.
+All images in /TMNT © Viacom International.

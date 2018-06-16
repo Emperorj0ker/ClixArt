@@ -1,6 +1,6 @@
 ## ROC Online Art
 
-#### Welcome to the Unoffocial [ROC Online](https://roc.ionsuite.com/) Art Repository!
+#### Welcome to the Unofficial [ROC Online](https://roc.ionsuite.com/) Art Repository!
 
 The goal of this project is to streamline the process for players getting their teams ready to go on the [Roll20 online vitrual tabletop](https://roll20.net/).
 

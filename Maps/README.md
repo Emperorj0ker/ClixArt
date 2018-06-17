@@ -2,8 +2,7 @@
 
 How to setup maps for use in Roll20:
 
-1. Using the toolbar at the top-left, make sure you have the "Map & Background" layer active: 
-![alt text][logo]
+1. Using the toolbar at the top-left, make sure you have the "Map & Background" layer active: ![alt text][logo]
 
 2. Use **ArenaBackdrop.jpg** as the Roll20 background and set the table dimensions to **34 x 24 units**.
 

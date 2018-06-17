@@ -1,6 +1,6 @@
 ## Maps
 
-How to set up maps for use in Roll20:
+How to setup maps for use in Roll20:
 
 1. Using the toolbar at the top-left, make sure you have the "Map & Background" layer active: 
 ![alt text][logo]

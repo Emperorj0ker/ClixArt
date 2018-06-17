@@ -1,4 +1,4 @@
-# Characters
+## Characters
 
 All images in /Marvel © MARVEL.
 

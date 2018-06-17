@@ -1,6 +1,6 @@
 ### Welcome to the Unofficial [ROC Online](https://roc.ionsuite.com/) Art Repository!
 
-The goal of this project is to streamline the process for players getting their teams on to the [Roll20 vitrual tabletop](https://roll20.net/).
+The goal of this project is to streamline the process for players getting their Heroclix teams on to the [Roll20 vitrual tabletop](https://roll20.net/).
 
 The following items will be provided here:
 * Library of Modern Age character tokens, made to be more easily identifiable, even when zoomed out.

@@ -10,23 +10,6 @@ The following items will be provided here:
 
 ---
 
-v0.2 additions:
-* Maps: Amok Time, Gorn Fight, Wakanda, Avengers Unity Rooftop, Arthur's Castle, Harley's Apartment
-* Overdrive, Charged Up, Shredder Elite and Clone Shredder
-
-v0.1 additons:
-* Light and heavy standard objects
-* Hindering and blocking terrain markers
-* Maps: Galador Promeande, Genosha, Underground Cavern, All 6 Wizkids Premium
-* Arena backdrop (in /Maps)
-* First batch of Marvel characters
-
-TODO:
-* ROC Maps
-* Many more Modern Age characters!
-
----
-
 All images in Characters/Marvel © MARVEL.
 
 All images in Characters/DC © DC COMICS.

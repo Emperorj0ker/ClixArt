@@ -6,4 +6,4 @@ invisibleplane.png is © DC COMICS.
 
 ---
 
-Thanks to Coozinator for the BoxingRing art!
+Thanks to Coozinator for the Boxing Ring art!

@@ -2,7 +2,7 @@
 
 HeroClix is © NECA/WizKids LLC, the name and logo are trademarks of NECA/WizKids LLC.
 
-invisibleplane.png is © DC COMICS.
+Invisible Plane (wkd17_v001.png) is © DC COMICS.
 
 ---
 

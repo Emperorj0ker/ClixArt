@@ -1,1 +1,1 @@
-All images © DC.
+All images © DC COMICS.
